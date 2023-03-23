@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 
-import ContactItem from '../ContactItem/ContactItem';
+import ContactItem from './ContactItem/ContactItem';
 import styles from './ContactList.module.css';
 
 // Приймає всі наявні контакти, складає в єдиний ul і підключає метод для можливості видалення контакту
